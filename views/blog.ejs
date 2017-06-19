@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Blog Page</title>
+	<link  rel="stylesheet" type="text/css" href="/css/style.css" />
+</head>
+<body>
+	<div class= "container">
+		<h1>BLOG</h1>
+		<div class = "blog">
+			<table>
+		  			<% for (let i = 0; i < title.length; i++) { %>
+		          <tr>
+								<td><%= title[i].id %></td>
+								<td><%= title[i].title %></td>
+							  <td><%= title[i].body %></td>
+							</tr>
+						<% } %>
+		  		</table>
+		</div>
+		<a href="http://localhost:3000/form">Add a post here</a>
+	</div>
+</body>
+</html>

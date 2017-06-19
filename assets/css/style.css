@@ -1,0 +1,55 @@
+body {
+	padding: 40px;
+}
+
+.blogform {
+	max-width: 720px;
+	min-height: 200px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+	background: #FCFCFC;
+	border: 1px solid #DDD;
+	border-radius: 4px;
+}
+
+h1 {
+	text-align: center;
+}
+input{
+	width: 400px;
+	height: 40px;
+	display: block;
+	margin: 0 auto 5px;
+}
+
+
+textarea {
+    width: 600px;
+    height: 150px;
+    padding: 12px 20px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+button {
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.blog {
+	max-width: 720px;
+	min-height: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	text-align: center;
+	background: #FCFCFC;
+	border: 1px solid #DDD;
+	border-radius: 4px;
+}
