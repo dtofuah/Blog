@@ -23,6 +23,10 @@ function renderBlog(res,message) {
 }
 
 app.get("/", function(req, res) {
+	res.render("portfolio");
+});
+
+app.get("/blog", function(req, res) {
 	renderBlog(res);
 });
 
