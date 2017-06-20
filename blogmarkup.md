@@ -90,3 +90,6 @@ I'm using the following apps for design / functionality inspiration:
 * [Fubiz](http://www.fubiz.net/) - Exactly what I want to build. I really like their use of images as links to projects. Can use that for my projects links on my portfolio.
 * [Webdesigner Depot](https://www.webdesignerdepot.com/) - One thing that we particularly like is the way Webdesigner Depot has incorporated social sharing icons on each individual post.
 * [Mashable](http://mashable.com/) - I like the color schemes they used on the website to tie everything together.
+## Github and Heroku links
+Heroku: https://serene-cliffs-56216.herokuapp.com/
+github: https://github.com/dtofuah/Blog
